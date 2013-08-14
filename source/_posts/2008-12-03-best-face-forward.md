@@ -24,12 +24,10 @@ Cut forward to now- with the various networks copying and expanding features, ev
 
 But, do we act the same as our online counterpart as we do in the flesh?  How much is filtered out?  The unflattering pictures, the bad moments, etc.  How many of us are consciously or unconsciously limiting information in order to be seen differently than as we are?  To be fair, this happens ‘in real life’ all the time.  It takes time to get to know the real person rather than their representative, as Chris Rock will tell you.  However, the amount of tools currently at our disposal to put our best face forward is greater than ever.  In fact, not using them can have a serious detrimental effect.
 
-With companies and colleges and potential dates searching social networks and the internet in general for information on people, allowing the real person to have too much visibility can be hazardous.  Personally I tend to let the ‘real me’ out on purpose more than most, at least in my opinion.  But you can bet I use those privacy controls to their fullest extent and with all their granularity.  I am happy I’m not searching for a new job or school just because of the amount of effort required to make sure I look as good as possible is beyond exasperating.  As for dates, the sooner they find out about the real me, the better. ![:)][1] 
-
- [1]: http://craigsturgis.com/wp-includes/images/smilies/icon_smile.gif
+With companies and colleges and potential dates searching social networks and the internet in general for information on people, allowing the real person to have too much visibility can be hazardous.  Personally I tend to let the ‘real me’ out on purpose more than most, at least in my opinion.  But you can bet I use those privacy controls to their fullest extent and with all their granularity.  I am happy I’m not searching for a new job or school just because of the amount of effort required to make sure I look as good as possible is beyond exasperating.  As for dates, the sooner they find out about the real me, the better.
 
 Since I enjoy pouring my thoughts and misadventures out onto the internet at large, I’ve even created this whole so and so pseudonym as a mild bit of security through obscurity.  But as any security student knows, this is woefully inadequate.  A google search for my name has my twitter profile on the first page of results.  But not before a couple of results for someone who shares my name, the openly gay musical composer.  Compose on, brother.
 
 Either way, I hope as connectivity continues to expand and more of our communication is done electronically instead of face to face, we collectively find a way to maintain our sense of who we are really amidst the snapshots we leave facing the window.  The more we have to dig to find the person the more time we waste.
 
-Can you see the real me doctor?
+Can you see [the real me](http://www.youtube.com/watch?v=pohhMx9EdNc) doctor?
