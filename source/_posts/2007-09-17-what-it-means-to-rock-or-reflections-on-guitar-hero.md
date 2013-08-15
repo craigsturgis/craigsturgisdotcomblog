@@ -15,10 +15,14 @@ categories:
 ---
 # 
 
-[![][2]][2]  
+*(Ed. Note 08/2013: This post originally appeared on my blogspot blog [here.](http://craigtsoandso.blogspot.com/2007/09/what-it-means-to-rock-or-reflections-on.html) I miss owning an SG sometimes. Pour one out for the Guitar Hero / Rock Band franchise.)*
+
+[![guitars][1]][2]
+
 Someone at Harmonix is/was a goddamn genius. It was Newton who said “If I have seen farther it is by standing on the shoulders of Giants,” but whoever came up with the idea of Guitar Hero by standing on the shoulders of Dance Dance Revolution deserves the highest entrepreneurial accolades possible.
 
- []: http://bp0.blogger.com/_upWyrfruFRU/Ru4UwpXKPkI/AAAAAAAAABc/G7ACXTjEzjg/s1600-h/007.JPG
+ [1]: /images/guitarhero-small.jpg
+ [2]: /images/guitarhero-full.jpg
 
 Rhythm games themselves are not new, and Dance Dance Revolution (henceforth referred to as DDR) was the most popular. I remember when I was living in the dorms at Purdue seeing random people in the floor lounges and at the arcade in the union / in the bowling alley wildly convulsing over floor sensors, and having an absolutely fantastic time doing it. However, in order to participate in DDR, you either have to be unaware of how silly you look, or just not care (the recommended choice).
 
@@ -30,11 +34,12 @@ With guitar hero, you don’t have to shred your fingers and practice for hours 
 
 Originally I basically scorned this game because it allows people to tap into an experience that I spent a lot of time and work to get. I may not be the most talented guitarist in the world, but I worked pretty hard to get decent, so why should anyone else get to feel like a fancy pants guitaring person without building up the callouses first? Of course, this is a completely silly reaction as the two activities are wildly different, but it didn’t help that I completely and totally sucked at the game the first time I tried it (hint: pretty much everyone does no matter their skill level, although I would like to have somebody like Clapton try it just to see).
 
-In the end, when enjoying the game for what it is, an incredibly fun virtual fantasy camp style experience, there’s nothing quite like it. Playing with a group of people who enjoy it makes it an even better experience. *BLATANT PLUG: In fact, if you live in Indianapolis come play with us at halftime of Monday Night Football games, details at [IndyMojo.com][2].
+In the end, when enjoying the game for what it is, an incredibly fun virtual fantasy camp style experience, there’s nothing quite like it. Playing with a group of people who enjoy it makes it an even better experience. *BLATANT PLUG: In fact, if you live in Indianapolis come play with us at halftime of Monday Night Football games, details at [IndyMojo.com][3][^1].
 
- [2]: http://indymojo.com
+ [3]: http://indymojo.com
+ [^1]: As of 08/2013 I don't think Indymojo has a guitar hero or Monday Night Football get together anymore.
 
-However, even with my small time [band ][3]that plays covers most of the time because it’s the easiest way to get people to listen to our originals (and also because it’s fun to play songs that you like from bands people know), the feeling of playing to a crowd of people who are enjoying the music and responding to what’s going on up on stage is a million times more of a rush than hitting the star power or getting achievements. That’s why guitar hero is insanely fun, but it absolutely, positively does not [rock][4].
+However, even with my small time [band ][4]that plays covers most of the time because it’s the easiest way to get people to listen to our originals (and also because it’s fun to play songs that you like from bands people know), the feeling of playing to a crowd of people who are enjoying the music and responding to what’s going on up on stage is a million times more of a rush than hitting the star power or getting achievements. That’s why guitar hero is insanely fun, but it absolutely, positively does not rock.
 
- [3]: http://myspace.com/avgheight
- [4]: http://horriblenight.blogspot.com/2007/08/it-was-so-and-then-there-were-two-fake.html
+ [4]: http://myspace.com/avgheight
+ 

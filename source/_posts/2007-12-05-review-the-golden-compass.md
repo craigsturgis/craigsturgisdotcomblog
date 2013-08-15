@@ -14,6 +14,7 @@ categories:
   - Reviews
 ---
 # 
+*(Ed. Note 08/2013: This post originally appeared on my blogspot blog [here.](http://craigtsoandso.blogspot.com/2007/12/review-golden-compass.html) MAN I REALLY ENJOYED THE SEQUELS TO THIS MOVIE!)*
 
 Last night I got the opportunity to take in a preview screening of The Golden Compass. Since I’m a nerdy enough guy I don’t mind a good fantasy movie here and there. Initially I was lukewarm on the movie (may have had something to do with having to sit in the front row).
 

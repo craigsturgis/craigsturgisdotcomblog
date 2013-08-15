@@ -1,5 +1,5 @@
 ---
-title: this counts as calling three years out
+title: This Counts as Calling Three Years Out
 author: Craig
 layout: post
 permalink: /2007/09/this-counts-as-calling-three-years-out/
@@ -13,6 +13,7 @@ categories:
   - Music
 ---
 # 
+*(Ed. Note 08/2013: This post originally appeared on my blogspot blog [here.](http://craigtsoandso.blogspot.com/2007/09/this-counts-as-calling-three-years-out.html) Man I love this album.)*
 
 One of my favorite little things about music is certain songs or albums seem intertwined with certain events or time periods in the past. I tend to listen to music in full album form rather than individual songs so for me this makes certain albums seem much better than they are, and other really great albums get tainted (although a couple albums I really liked have risen above this).
 

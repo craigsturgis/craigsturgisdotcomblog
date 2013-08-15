@@ -16,15 +16,16 @@ tags:
 ---
 # 
 
-*(the application, on windows)
+*(Ed. Note 08/2013: This article originally appeared on the now defunct craigtsoandso.com. I had actually forgotten about musikcube until I reread this article. My foobar phase did not last long. Now I'm actually behind the curve since I'm not a big streaming service listener outside of when I have the itch to discover something new. Plus, I actually like the newer iTunes interface better which is a minority opinion as well. I honestly spend the majority of my listening time with podcasts these days, must be a bit that flips around the time you hit 30.)*
+
+*(The application, on windows)
 
 I listen to a well above average amount of music while sitting at a computer, both at home and at the office. I have a very large collection of music, but I don’t think my musical needs and computer music quirks are all that outrageous. It very well may be a symptom of my inaction or seeming inability to migrate away from Windows as a primary operating system, but iTunes causes me an inordinate amount of aggravation.
 
-Why do I use it you say? Well, until recently I lived a blissful musical existence without it even installed- until [I bought an iPod][1].  Since it was a new fangled revision, all the third party iPod syncing software was useless.  So, I installed iTunes for the first time on my new desktop, and I was pleased that it didn’t seem as molasses slow on Windows as it was the last time I tried to use it.  However, I continued to use my personal favorite music player, the open source [musikcube][2].![The Mad Note][3]
+Why do I use it you say? Well, until recently I lived a blissful musical existence without it even installed- until [I bought an iPod][1].  Since it was a new fangled revision, all the third party iPod syncing software was useless.  So, I installed iTunes for the first time on my new desktop, and I was pleased that it didn’t seem as molasses slow on Windows as it was the last time I tried to use it.  However, I continued to use my personal favorite music player, the open source [musikcube][2].
 
- [1]: http://craigtsoandso.com/2007/09/12/ok-fine-but-keep-those-stupid-white-headphones-away-from-me/
+ [1]: /2007/09/12/ok-fine-but-keep-those-stupid-white-headphones-away-from-me/
  [2]: http://www.musikcube.com/
- [3]: http://craigtsoandso.com/images/themadnote.jpg
 
 Then the last.fm plugin for musikcube stopped working reliably.
 

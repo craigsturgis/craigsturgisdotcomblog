@@ -13,6 +13,7 @@ categories:
   - Sports
 ---
 # 
+*(Ed. Note 08/2013: This post originally appeared on my blogspot blog [here.](http://craigtsoandso.blogspot.com/2007/12/in-defense-of-indiana-pacers.html) I still enjoy sports, but take them far less seriously than I did even 2 or 3 years ago. The end of this post is a riot in hindsight. I'm glad I finally don't need to care enough to write posts like this anymore after last summer, at least for a while.)*
 
 Professional sports are a curious enterprise. People expending a lot of energy, emotion, and oftentimes money pulling for grown men, most of which are millionaires, to score points based for the most part on where they happened to grow up is kind of a silly idea when viewed from the outside in. But, I don’t care- sports are interesting, entertaining, and fun to invest in emotionally. Yes, even professional sports. There’s something to be said for seeing athletic competition at its highest level, and if it’s fun to participate in as a spectator too then I’m all for it.
 

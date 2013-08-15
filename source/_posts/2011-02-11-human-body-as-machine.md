@@ -8,6 +8,8 @@ categories:
 ---
 # 
 
+*(Ed. Note: This post originally appeared on the now defunct craigtsoandso.com)*
+
 I miss it.
 
 It’s been over ten years since I’ve felt it really, but it’s one of those things that’s impossible to forget.  If you listen to [Radiolab][1] (and you should, it’s an incredibly interesting show) it talks about how your mind can play tricks on you to completely jumble your memories, but this isn’t a memory of a feeling so much as it was a personal *event.*
@@ -23,3 +25,5 @@ Since that time I’ve taken up running again in fits and starts.  I even blogg
 I did, however, take aim at a bucket list entry in signing up for the Chicago marathon.  The big one.  26.2.  I’ve always said I’ve wanted to do it once, now it’s time to put up or shut up. People who know tell me it’s a whole different animal from 13.1 and I believe them. I’m probably in for a whole lot of pain and suffering.  But, if training for it and completing it puts me anywhere closer experiencing what I remember, it’ll be worth it twice over.
 
 2011 is going to be a year of big challenges and changes for me. But, the time for coasting is over, time to dime the amp.  Bring it on.
+
+**Update 08/2013:** I never did run the Chicago marathon that year, I tore a muscle in my leg a few weeks before the race. I did however go on to just barely complete a full marathon in November 2012.

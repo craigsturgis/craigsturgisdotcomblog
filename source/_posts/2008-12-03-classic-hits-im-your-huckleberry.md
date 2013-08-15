@@ -8,15 +8,15 @@ categories:
 ---
 # 
 
-*Classic hits is an attempt to consolidate all my internet written content, and also to revisit it from the present*
+*(Ed. Note 08/2013: This version of this post originally appeared on the now defunct craigtsoandso.com. The actual original post hilariously enough is still up on livejournal [here.](http://csturgis.livejournal.com/1957.html) Revisiting my old writing makes me cringe, whether it's 10 years later or the smug comments about that writing 5 years later. But I leave it up as a reminder to myself if nothing else.*
+
+**"Classic hits" is an attempt to consolidate all my internet written content, and also to revisit it from the present**
 
 One of my original stream of consciousness updates, this one from December of 2003.  My musings on longing a bit for the real world are funny now given I would kill for 3 weeks off for Christmas even if I had to work 100 hours next week, but hey the grass is always greener.  Sometimes I think I’d like to go back to school full time, but those thoughts are fleeting.
 
 The mention of my astronomy class is a funny memory, because somehow my lab group ended up being me and three girls, and I ended up just doing all the lab work and then explaining it to them.  All three were nice- one of them was attractive, another was extremely attractive, and was the subject of another throwaway comment, but she gave me the laugh and the arm touch I ended up commenting on in another entry.  If only I could have developed some more self confidence earlier in my life, ha.  C’est la vie.  I probably wouldn’t even recognize her face if I saw her today anyhow.  The mention of the discrete math is a less funny memory, as that class mostly sucked.
 
 Snoop style izzle speak has mostly disappeared in the intervening 5 years, aside from the occasional extremely lame dad or over-ironic hipster.  The original image that was there was the photoshopped weather map with every word ending in izzle.  It’s decidedly less funny now, heh.
-
-(2013 Note) - Also this post asks people to post in the comments. Major pet peeve of mine now.
 
 ## I’m your huckleberry
 

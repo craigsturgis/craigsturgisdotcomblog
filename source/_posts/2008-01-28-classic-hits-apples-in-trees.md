@@ -14,13 +14,12 @@ categories:
   - Classic Hits
 ---
 # 
+*(Ed. Note 08/2013: This post originally appeared on my blogspot blog [here.](http://craigtsoandso.blogspot.com/2008/01/classic-hits-apples-in-trees.html). The original post is still on livejournal [here,](http://csturgis.livejournal.com/762.html) complete with embarassing comments section! The only thing I have to add 10 years later is it's painful and funny to see the casual misogyny of someone who can't figure out why he can't get the girl. I keep these posts around to remind myself that I've written some really clever, but really stupid things.)*
 
-Classic Hits is a new feature for Craig T SoAndSo, which has a two pronged purpose- To take old material I’ve written on the internet (substantive content articles only) and have it all moved here, and to do a bit of reflection on it. I’m going to go from the very back, to my then famous (10 comments!) post inspired by a silly saying that I saw again recently, even though it was kind of the setup for a decently funny joke.
+**Classic hits is an attempt to consolidate all my internet written content, and also to revisit it from the present**
 
-This was written on October 27th, 2003 on livejournal, and the 21 year old Craig was still very much in a Jason Lee in mallrats phase of his life involving a lot of rants and general malaise directed mostly towards the opposite sex. He also was not very self confident around the ladies. The ‘wahh, nobody wants a nice guy’ stuff is especially fun. Just soak in the angst ![:)][1]  
+This was written on October 27th, 2003 on livejournal, and the 21 year old Craig was still very much in a Jason Lee in mallrats phase of his life involving a lot of rants and general malaise directed mostly towards the opposite sex. He also was not very self confident around the ladies. The ‘wahh, nobody wants a nice guy’ stuff is especially fun. Just soak in the angst!
 ————————————–
-
- [1]: http://craigsturgis.com/wp-includes/images/smilies/icon_smile.gif
 
 ## Warning: if you are the average girl, this will probably piss you off.
 

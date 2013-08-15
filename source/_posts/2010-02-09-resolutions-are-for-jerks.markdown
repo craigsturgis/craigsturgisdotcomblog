@@ -8,6 +8,8 @@ categories:
 ---
 # 
 
+*(Ed. Note: This post originally appeared on the now defunct craigtsoandso.com)*
+
 Mr James Brown Jr got me thinking earlier today with his “post super bowl resolutions” he posted.  Normally I’m not big on New Year’s resolutions, I like more random resolutions- I feel like they stick better, so here are a few:
 
 1) Try to be a nicer dude. It seems to me I lose my patience a lot more easily than I used to these days. We all have our bad moments and February weather certainly doesn’t help even if you’re not the type to get seasonal affective disorder, but if I’ve been a jerk to or around you in the past- I’m sorry and I’m going to try and do better.

@@ -14,8 +14,9 @@ categories:
   - Politics
 ---
 # 
+*(Ed. Note: This post originally appeared on my blogspot blog [here.](http://craigtsoandso.blogspot.com/2008/01/classic-hits-media-bias.html) The original livejournal post somehow still exists [here.](http://csturgis.livejournal.com/1105.html) Sadly YOU broke up a long time ago but their site and subsequent bands live on. My current strongest view on the media is simply that cable news is poison.)*
 
-*Classic hits is an attempt to consolidate all my internet written content, and also to revisit it from the present*
+**Classic hits is an attempt to consolidate all my internet written content, and also to revisit it from the present**
 
 This post was borderline cheating when I originally put it up since it was mostly just something I wrote for a class, but it still seems pretty relevant today, even though there aren’t a lot of people braying about bias in the media these days. By far the most interesting dialog going on about the media right now is happening right now in the final season of David Simon and HBO’s The Wire. The show’s depiction of the newsroom and the conversation going on in the journalistic community about its portrayal is pretty fascinating. I want to watch the rest of the episodes so badly, but I do not want the show to end.
 

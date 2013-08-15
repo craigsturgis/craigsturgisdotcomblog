@@ -8,6 +8,8 @@ categories:
 ---
 # 
 
+*(Ed. Note: This post originally appeared on the now defunct craigtsoandso.com)*
+
 Today sucks. I’m not going to rhapsodize about Peyton Manning’s time in Indianapolis, or angrily vent or try to be the voice of reason, or wonder why we care so much about a silly thing like sports here, although I have been doing all of those things since the writing on the wall became a reality last night.  I’ll leave that for other people.
 
 I want to talk my about old family dog.
