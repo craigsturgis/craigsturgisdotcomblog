@@ -6,8 +6,6 @@ permalink: /2012/08/disconnect/
 categories:
   - Personal
 ---
-# 
-
 I’m writing this post from the Charlotte airport, yes on my computer.  I have decided during my barely week-long sojourn to my parents’ house in Hilton Head Island, SC to take a shot at doing something in the way of “disconnecting” completely from the very internet focused and ultra connected lifestyle I lead.
 
 This has been a popular concept recently but I’m not sure how many people actually try it or even succeed, but I like to think I’m adventurous on occasion. I’ve also felt more easily stressed or exasperated or quick to be cynical lately, so I figure a break can’t hurt.

@@ -6,9 +6,7 @@ permalink: /2010/02/resolutions-are-for-jerks
 categories:
   - Personal
 ---
-# 
-
-*(Ed. Note: This post originally appeared on the now defunct craigtsoandso.com)*
+*(Note: This post originally appeared on the now defunct craigtsoandso.com. Datestamped footnotes with commentary may have been added for my own reflection and amusement.)*
 
 Mr James Brown Jr got me thinking earlier today with his “post super bowl resolutions” he posted.  Normally I’m not big on New Year’s resolutions, I like more random resolutions- I feel like they stick better, so here are a few:
 
@@ -22,4 +20,6 @@ Mr James Brown Jr got me thinking earlier today with his “post super bowl reso
 
 Anyhow, this is not fishing for compliments or anything I’m looking for a big response on, just something I wanted to share that called for something longer than a twitter post or facebook status.  If I’m doing something against the spirit or the letter of the above feel free to call me on it, I’m just some jerk trying to make it in this world.
 
-(P.S. watch Chuck, it’s an entertaining throw away show and however cheesy it may seem watching it makes me want to be a nicer person almost every episode, it contributed to #1, ha.)
+(P.S. watch Chuck[^1], it’s an entertaining throw away show and however cheesy it may seem watching it makes me want to be a nicer person almost every episode, it contributed to #1, ha.)
+
+ [^1]: Chuck really was a great show, even if they had a hard time ending it well. I would still recommend catching the series. (08/2013) 

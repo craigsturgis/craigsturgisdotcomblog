@@ -1,14 +1,12 @@
 ---
-title: human body as machine
+title: Human Body as Machine
 author: Craig
 layout: post
 permalink: /2011/02/human-body-as-machine/
 categories:
   - Personal
----
-# 
-
-*(Ed. Note: This post originally appeared on the now defunct craigtsoandso.com)*
+--- 
+*(Note: This post originally appeared on the now defunct craigtsoandso.com. Datestamped footnotes with commentary may have been added for my own reflection and amusement.)*
 
 I miss it.
 
@@ -22,8 +20,8 @@ This happened to me only a handful of times, not even always in competitive even
 
 Since that time I’ve taken up running again in fits and starts.  I even blogged about it at least once back in my myspace days.  I’ve completed road races here and there, even two half marathons.  I’m training for my third right now.  I am still much, much slower than I used to be. I’ve never reached what I would consider “in shape.”  I’ve certainly not approached anything even close to ‘the body as machine’ experience I remember.  I may never get there again.
 
-I did, however, take aim at a bucket list entry in signing up for the Chicago marathon.  The big one.  26.2.  I’ve always said I’ve wanted to do it once, now it’s time to put up or shut up. People who know tell me it’s a whole different animal from 13.1 and I believe them. I’m probably in for a whole lot of pain and suffering.  But, if training for it and completing it puts me anywhere closer experiencing what I remember, it’ll be worth it twice over.
+I did, however, take aim at a bucket list entry in signing up for the Chicago marathon.  The big one.  26.2[^1].  I’ve always said I’ve wanted to do it once, now it’s time to put up or shut up. People who know tell me it’s a whole different animal from 13.1 and I believe them. I’m probably in for a whole lot of pain and suffering.  But, if training for it and completing it puts me anywhere closer experiencing what I remember, it’ll be worth it twice over.
 
 2011 is going to be a year of big challenges and changes for me. But, the time for coasting is over, time to dime the amp.  Bring it on.
 
-**Update 08/2013:** I never did run the Chicago marathon that year, I tore a muscle in my leg a few weeks before the race. I did however go on to just barely complete a full marathon in November 2012.
+ [^1]: I never did run the Chicago marathon that year, I tore a muscle in my leg a few weeks before the race. I did however go on to just barely complete a full marathon in November 2012. (08/2013) 

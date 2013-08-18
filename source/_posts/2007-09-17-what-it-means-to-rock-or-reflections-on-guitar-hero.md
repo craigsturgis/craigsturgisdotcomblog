@@ -3,26 +3,21 @@ title: 'What it means to rock -OR- Reflections on guitar hero'
 author: Craig
 layout: post
 permalink: /2007/09/what-it-means-to-rock-or-reflections-on-guitar-hero/
-blogger_blog:
-  - craigtsoandso.blogspot.com
-blogger_author:
-  - CTS
-blogger_permalink:
-  - /2007/09/what-it-means-to-rock-or-reflections-on.html
 categories:
   - Music
   - Technology
 ---
-# 
+*(Note: This post originally appeared on my blogspot blog [here.][1] Datestamped footnotes with commentary may have been added for my own reflection and amusement.)*
 
-*(Ed. Note 08/2013: This post originally appeared on my blogspot blog [here.](http://craigtsoandso.blogspot.com/2007/09/what-it-means-to-rock-or-reflections-on.html) I miss owning an SG sometimes. Pour one out for the Guitar Hero / Rock Band franchise.)*
+ [1]: http://craigtsoandso.blogspot.com/2007/09/what-it-means-to-rock-or-reflections-on.html
 
-[![guitars][1]][2]
+[![Guitars][2]][3]
 
-Someone at Harmonix is/was a goddamn genius. It was Newton who said “If I have seen farther it is by standing on the shoulders of Giants,” but whoever came up with the idea of Guitar Hero by standing on the shoulders of Dance Dance Revolution deserves the highest entrepreneurial accolades possible.
+Someone at Harmonix is/was a goddamn genius.[^1] It was Newton who said “If I have seen farther it is by standing on the shoulders of Giants,” but whoever came up with the idea of Guitar Hero by standing on the shoulders of Dance Dance Revolution deserves the highest entrepreneurial accolades possible.
 
- [1]: /images/guitarhero-small.jpg
- [2]: /images/guitarhero-full.jpg
+ [^1]: To be fair, that person probably doesn't feel so smart now. (08/2013) 
+ [2]: /images/guitarhero-small.jpg
+ [3]: /images/guitarhero-full.jpg
 
 Rhythm games themselves are not new, and Dance Dance Revolution (henceforth referred to as DDR) was the most popular. I remember when I was living in the dorms at Purdue seeing random people in the floor lounges and at the arcade in the union / in the bowling alley wildly convulsing over floor sensors, and having an absolutely fantastic time doing it. However, in order to participate in DDR, you either have to be unaware of how silly you look, or just not care (the recommended choice).
 
@@ -34,12 +29,13 @@ With guitar hero, you don’t have to shred your fingers and practice for hours 
 
 Originally I basically scorned this game because it allows people to tap into an experience that I spent a lot of time and work to get. I may not be the most talented guitarist in the world, but I worked pretty hard to get decent, so why should anyone else get to feel like a fancy pants guitaring person without building up the callouses first? Of course, this is a completely silly reaction as the two activities are wildly different, but it didn’t help that I completely and totally sucked at the game the first time I tried it (hint: pretty much everyone does no matter their skill level, although I would like to have somebody like Clapton try it just to see).
 
-In the end, when enjoying the game for what it is, an incredibly fun virtual fantasy camp style experience, there’s nothing quite like it. Playing with a group of people who enjoy it makes it an even better experience. *BLATANT PLUG: In fact, if you live in Indianapolis come play with us at halftime of Monday Night Football games, details at [IndyMojo.com][3][^1].
+In the end, when enjoying the game for what it is, an incredibly fun virtual fantasy camp style experience, there’s nothing quite like it. Playing with a group of people who enjoy it makes it an even better experience. *BLATANT PLUG: In fact, if you live in Indianapolis come play with us at halftime of Monday Night Football games, details at [IndyMojo.com][4][^2].
 
- [3]: http://indymojo.com
- [^1]: As of 08/2013 I don't think Indymojo has a guitar hero or Monday Night Football get together anymore.
+ [4]: http://indymojo.com
+ [^2]: I don't think Indymojo has a guitar hero or Monday Night Football get together anymore. (08/2013)
 
-However, even with my small time [band ][4]that plays covers most of the time because it’s the easiest way to get people to listen to our originals (and also because it’s fun to play songs that you like from bands people know), the feeling of playing to a crowd of people who are enjoying the music and responding to what’s going on up on stage is a million times more of a rush than hitting the star power or getting achievements. That’s why guitar hero is insanely fun, but it absolutely, positively does not rock.
+However, even with my small time [band ][5]that plays covers most of the time because it’s the easiest way to get people to listen to our originals (and also because it’s fun to play songs that you like from bands people know), the feeling of playing to a crowd of people who are enjoying the music and responding to what’s going on up on stage is a million times more of a rush than hitting the star power or getting achievements. That’s why guitar hero[^3] is insanely fun, but it absolutely, positively does not rock.
 
- [4]: http://myspace.com/avgheight
+ [5]: http://myspace.com/avgheight
+ [^3]: I miss owning that SG in the top picture sometimes even though it had an neck that would never let the guitar stay in tune for long. Pour one out for the Guitar Hero / Rock Band franchise. (08/2013)
  

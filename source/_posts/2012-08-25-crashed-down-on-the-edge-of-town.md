@@ -6,7 +6,6 @@ permalink: /2012/08/crashed-down-on-the-edge-of-town/
 categories:
   - Personal
 ---
-# 
 
 I’m not sure how common this experience is, but I always forget that when I go on a vacation where I can truly relax, my body figures that out before my mind does. Before my mind can settle down, I crash, *hard.*
 

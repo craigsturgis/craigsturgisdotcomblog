@@ -3,22 +3,13 @@ title: Passion of the Craig
 author: Craig
 layout: post
 permalink: /2007/11/passion-of-the-craig/
-blogger_blog:
-  - craigtsoandso.blogspot.com
-blogger_author:
-  - CTS
-blogger_permalink:
-  - /2007/11/passion-of-craig.html
 categories:
   - Personal
-tags:
-  - art
-  - karma
-  - passion
-  - philosophy
 ---
-# 
-*(Ed. Note 08/2013: This post originally appeared on my blogspot blog [here.](http://craigtsoandso.blogspot.com/2007/11/passion-of-craig.html))*
+
+*(Note: This post originally appeared on my blogspot blog [here.][1] Datestamped footnotes with commentary may have been added for my own reflection and amusement.)*
+
+ [1]: http://craigtsoandso.blogspot.com/2007/11/passion-of-craig.html
  
 Last weekend I was involved in one of those late night philosophical conversations that pop up occasionally, this one involved the subject of having a passion in life and what exactly that means. As a result of this conversation I realized that I don’t really have a capital P level ‘Passion’ as most people define it, and I also realized I’m perfectly fine with that.
 
@@ -28,18 +19,18 @@ I love to play music, and I’d like to get much better at both playing and writ
 
 If anything I don’t have a ‘Passion’ because my passion is spread too thin across too many pursuits, but I like it that way. I love to write even though most of my writing is on this blog that probably gets just a few readers. I love to try and get back into shape even though the past couple years have shown that I’m not very successful at it. I will keep slogging my increasingly bad knees to the gym at irregular intervals. I do have the ability to focus intently on a pursuit, but I’m not as astute at honing that focus on more than one thing at a time. But, I think part of that reason is that my brain is always seeking that next new thing to whet its appetite, and I think for me that’ll do just fine. I’m happy enough being a jack of all trades, close to a master of a few.
 
-The other, intertwined subject of this conversation was how we as individuals are going to be remembered. Without a driving passion to create something truly great, how am I going to leave a legacy? I think every philosophy has something to lend to the idea of leaving something behind for those still on this mortal coil after someone is shuffled off of it, and I put a lot of credence in the idea of making a mark and being remembered. However, my thinking on this in the past few years seems to be influenced by two quotes, the first of which is from a [speech][1] by Carl Sagan in regards to the picture at the top of this post:
+The other, intertwined subject of this conversation was how we as individuals are going to be remembered. Without a driving passion to create something truly great, how am I going to leave a legacy? I think every philosophy has something to lend to the idea of leaving something behind for those still on this mortal coil after someone is shuffled off of it, and I put a lot of credence in the idea of making a mark and being remembered. However, my thinking on this in the past few years seems to be influenced by two quotes, the first of which is from a [speech][2] by Carl Sagan in regards to the picture at the top of this post:
 
- [1]: http://obs.nineplanets.org/psc/pbd.html
+ [2]: http://obs.nineplanets.org/psc/pbd.html
 
- ![Pale Blue Dot][2]
+ ![Pale Blue Dot][3]
 
 > We succeeded in taking that picture [from deep space], and, if you look at it, you see a dot. That’s here. That’s home. That’s us. On it, everyone you ever heard of, every human being who ever lived, lived out their lives. The aggregate of all our joys and sufferings, thousands of confident religions, ideologies and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilizations, every king and peasant, every young couple in love, every hopeful child, every mother and father, every inventor and explorer, every teacher of morals, every corrupt politician, every superstar, every supreme leader, every saint and sinner in the history of our species, lived there on a mote of dust, suspended in a sunbeam.
 
-The second quote is one that one of my oldest friends likes to use that is actually old Honest Abe quoting an ancient eastern society, although [Wikipedia ][3]says the origin is attributed in a few different places:
+The second quote is one that one of my oldest friends likes to use that is actually old Honest Abe quoting an ancient eastern society, although [Wikipedia ][4]says the origin is attributed in a few different places:
 
- [2]: /images/pbd.jpg
- [3]: http://en.wikipedia.org/wiki/This_too_shall_pass
+ [3]: /images/pbd.jpg
+ [4]: http://en.wikipedia.org/wiki/This_too_shall_pass
 
 > It is said an eastern monarch once charged his wise men to invent a sentence, to be ever in view, and which should be true and appropriate in all times and situations. They presented him with the words, ‘And this, too, shall pass away.’ How much it expresses! How chastening in the hour of pride! How consoling in the depths of affliction!
 

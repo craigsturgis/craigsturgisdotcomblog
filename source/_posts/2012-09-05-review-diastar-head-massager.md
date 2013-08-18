@@ -20,4 +20,6 @@ BUUUHHHHHHHHHHHHHHHH….
 
 This contraption is amazing and should be owned by everyone. Recommended in the biggest way.
 
- 
+ *(This post includes an [affiliate link.][3])*
+
+ [3]: /affiliate-links/

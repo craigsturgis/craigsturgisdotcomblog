@@ -10,7 +10,7 @@ categories:
 
 I made a decision recently that coincided with the “relaunch”[^1] of this website that I would stop posting things under a pseudonym. Over the last few days I have added my full name to my [twitter page][1], imported all of my posts from my previous site[^2], and decided that even though I was only superficially trying to be harder to find, that I’m not going to be doing that anymore. I’m also glad I never got a tattoo because every time I pick something like a website name to identify myself with I tend to think it’s stupid only a few years later[^3].
 
-[1]: http://twitter.com/craig_3000
+[1]: http://twitter.com/craigsturgis
 [^1]: Now, this site was never really launched in the first place, but that’s beside the point.
 [^2]: The now defunct craigtsoandso.com
 [^3]: My Senior yearbook quote is the worst.

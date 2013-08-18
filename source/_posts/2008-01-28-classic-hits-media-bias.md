@@ -3,34 +3,34 @@ title: 'Classic Hits &#8211; Media Bias'
 author: Craig
 layout: post
 permalink: /2008/01/classic-hits-media-bias/
-blogger_blog:
-  - craigtsoandso.blogspot.com
-blogger_author:
-  - CTS
-blogger_permalink:
-  - /2008/01/classic-hits-media-bias.html
 categories:
   - Classic Hits
   - Politics
 ---
-# 
-*(Ed. Note: This post originally appeared on my blogspot blog [here.](http://craigtsoandso.blogspot.com/2008/01/classic-hits-media-bias.html) The original livejournal post somehow still exists [here.](http://csturgis.livejournal.com/1105.html) Sadly YOU broke up a long time ago but their site and subsequent bands live on. My current strongest view on the media is simply that cable news is poison.)*
+*(Note: This post originally appeared on my blogspot blog [here.][1] Datestamped footnotes with commentary may have been added for my own reflection and amusement.)*
 
-**Classic hits is an attempt to consolidate all my internet written content, and also to revisit it from the present**
+ [1]: http://craigtsoandso.blogspot.com/2008/01/classic-hits-media-bias.html
 
-This post was borderline cheating when I originally put it up since it was mostly just something I wrote for a class, but it still seems pretty relevant today, even though there aren’t a lot of people braying about bias in the media these days. By far the most interesting dialog going on about the media right now is happening right now in the final season of David Simon and HBO’s The Wire. The show’s depiction of the newsroom and the conversation going on in the journalistic community about its portrayal is pretty fascinating. I want to watch the rest of the episodes so badly, but I do not want the show to end.
+**Classic hits is an attempt to consolidate all my internet written content, and also to revisit it from the present.**
+
+This [post][2] was borderline cheating when I originally put it up since it was mostly just something I wrote for a class, but it still seems pretty relevant today, even though there aren’t a lot of people braying about bias in the media these days. By far the most interesting dialog going on about the media right now is happening right now in the final season of David Simon and HBO’s [The Wire][3]. The show’s depiction of the newsroom and the conversation going on in the journalistic community about its portrayal is pretty fascinating. I want to watch the rest of the episodes so badly, but I do not want the show to end.
+
+ [2]: http://csturgis.livejournal.com/1105.html
+ [3]: http://www.amazon.com/dp/B006GLQ092?tag=craigsturgisc-20
 
 Other funny notes from this post include me mentioning my homepage as fark.com, a site I don’t believe I’ve visited in a couple years, and poking fun at dateline well before the “To Catch a Predator” thing became wildly popular.
 
-I have included the stupid ‘mood’ and ‘song’ fields because I have to give myself some credit for starting my internet tradition of saying I felt dirty every time the internet asked me what mood I was in over 4 years ago. That and the song I was listening to is really awesome, and Y O U is a great band that’s giving their cd flashlights away on [pleaserock.com.][1]
+I have included the stupid ‘mood’ and ‘song’ fields because I have to give myself some credit for starting my internet tradition of saying I felt dirty every time the internet asked me what mood I was in over 4 years ago. That and the song I was listening to is really awesome, and Y O U is a great band[^1] that’s giving their cd flashlights away on [pleaserock.com.][1]
 
  [1]: http://pleaserock.com
+ [^1]: Sadly Y O U broke up a long time ago but their site and subsequent bands live on.
 
 ## Makin’ love on the radio
 
-I’ve just finished what appears to be a successful all nighter writing a sociology term paper on bias in the media. I achieved new heights of procrastination on this one- I did no research at all until the night before it was due, and didn’t start writing until around 1. But, due to my silly perfectionist complex that decides to rear its head every once in a while, I couldn’t bear to halfass it. One thing that was fun about this paper is I got to write a 2 page section on what theory I thought best addressed the problem, so I’ve decided to post it here for your viewing pleasure. -disclaimer- I’m a bit delirious at this point and it was the last thing I wrote so it may not be completely coherent. Enjoy:
+I’ve just finished what appears to be a successful all nighter writing a sociology term paper on bias in the media[^2]. I achieved new heights of procrastination on this one- I did no research at all until the night before it was due, and didn’t start writing until around 1. But, due to my silly perfectionist complex that decides to rear its head every once in a while, I couldn’t bear to halfass it. One thing that was fun about this paper is I got to write a 2 page section on what theory I thought best addressed the problem, so I’ve decided to post it here for your viewing pleasure. -disclaimer- I’m a bit delirious at this point and it was the last thing I wrote so it may not be completely coherent. Enjoy:
 
- 
+ [^2]: My current strongest view on the media is simply that cable news is poison.
+
 ## Dr. Media-slant or: How I Learned to Stop Worrying and Love the Pundits
 
 If one were to listen to the pundits, be it on television, the radio, or the internet, one would think that media bias was everywhere. Of course, if one were to keep listening to them, one would be inclined to suffer a brain aneurism due to all the issues to be upset about.I think media bias is an important thing to keep an eye out for. After all, if we can’t get reliable news, or at the very least get the same news from a variety of sources and then settle on a reasonable conclusion, how can we reach any logical conclusion on world affairs, or even social and political issues? However, none of the theories or opinions I researched seemed to resonate completely with me. I think the answer lies somewhere in-between the lines.
@@ -51,10 +51,12 @@ What is worrisome is the increasing inability of reporters, columnists, and edit
 
 I think that bias in the sense that most people are worried about is not going to develop into a huge issue. Despite what insidious motives the conspiracy theorists may ascribe to the media, for right now most of the established media is concerned with maintaining their integrity. I think the bigger problem lies in the replacement of that integrity with the profit-driven bottom line and what we may lose in the end. But, even I can say I would tune in to watch CNN’s Crossfire: the Cage Match.
 
- 
-
-Current Mood: ![][2] dirty
+Current Mood: ![dirty][4] dirty
 
 Current Music: You – Radio
 
- [2]: http://stat.livejournal.com/img/mood/ibrad/ohcrap.gif
+ [4]: /images/ohcrap.gif
+
+*(This post includes an [affiliate link.][5])*
+
+ [5]: /affiliate-links/
