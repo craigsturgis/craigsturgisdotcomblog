@@ -1,5 +1,5 @@
 ---
-title: In defense of the Indiana Pacers
+title: In Defense of the Indiana Pacers
 author: Craig
 layout: post
 permalink: /2007/12/in-defense-of-the-indiana-pacers/

@@ -1,5 +1,5 @@
 ---
-title: 'I&#39;ve got issues'
+title: 'I&#39;ve Got Issues'
 author: Craig
 layout: post
 permalink: /2007/07/ive-got-issues/

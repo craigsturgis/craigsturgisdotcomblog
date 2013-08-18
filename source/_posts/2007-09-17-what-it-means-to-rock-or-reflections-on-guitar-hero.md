@@ -1,5 +1,5 @@
 ---
-title: 'What it means to rock -OR- Reflections on guitar hero'
+title: 'What It Means to Rock -OR- Reflections on Guitar Hero'
 author: Craig
 layout: post
 permalink: /2007/09/what-it-means-to-rock-or-reflections-on-guitar-hero/

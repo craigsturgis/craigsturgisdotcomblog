@@ -1,5 +1,5 @@
 ---
-title: Resolutions are for Jerks
+title: Resolutions Are For Jerks
 author: Craig
 layout: post
 permalink: /2010/02/resolutions-are-for-jerks

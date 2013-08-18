@@ -1,5 +1,5 @@
 ---
-title: Best face forward
+title: Best Face Forward
 author: Craig
 layout: post
 permalink: /2008/12/best-face-forward/

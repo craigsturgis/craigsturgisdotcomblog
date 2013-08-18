@@ -1,5 +1,5 @@
 ---
-title: 'Classic Hits &#8211; I&#8217;m your huckleberry'
+title: 'Classic Hits &#8211; I&#8217;m Your Huckleberry'
 author: Craig
 layout: post
 permalink: /2008/12/classic-hits-im-your-huckleberry/

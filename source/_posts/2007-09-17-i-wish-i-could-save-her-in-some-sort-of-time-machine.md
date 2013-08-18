@@ -1,5 +1,5 @@
 ---
-title: I wish I could save her in some sort of time machine
+title: I Wish I Could Save Her In Some Sort of Time Machine
 author: Craig
 layout: post
 permalink: /2007/09/i-wish-i-could-save-her-in-some-sort-of-time-machine/

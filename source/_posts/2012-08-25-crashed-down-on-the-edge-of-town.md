@@ -1,5 +1,5 @@
 ---
-title: Crashed down on the edge of town
+title: Crashed Down on the Edge of Town
 author: Craig
 layout: post
 permalink: /2012/08/crashed-down-on-the-edge-of-town/

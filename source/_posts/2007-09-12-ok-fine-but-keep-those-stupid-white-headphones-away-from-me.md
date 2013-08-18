@@ -1,5 +1,5 @@
 ---
-title: Ok fine, but keep those stupid white headphones away from me
+title: Ok Fine, But Keep Those Stupid White Headphones Away From Me
 author: Craig
 layout: post
 permalink: /2007/09/ok-fine-but-keep-those-stupid-white-headphones-away-from-me/
