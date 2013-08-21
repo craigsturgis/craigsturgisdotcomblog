@@ -21,13 +21,13 @@ The title of this site is an homage to one of my favorite [quotes][7] of all tim
 
 I’m on the move physically and mentally a lot of the time, but I can be reached via email by emailing craig or cs @ this domain. I can also be found in many places on the Internet, here are some more of them:
 
-*   [Twitter][8]
-*   [LinkedIn][9]
-*   [Facebook][7]
+*   [Twitter][9]
+*   [LinkedIn][10]
+*   [Facebook][11]
 
- [7]: http://www.facebook.com/craig.sturgis
- [8]: http://twitter.com/craigsturgis
- [9]: http://www.linkedin.com/in/craigsturgis
+ [9]: http://twitter.com/craigsturgis
+ [10]: http://www.linkedin.com/in/craigsturgis
+ [11]: http://www.facebook.com/craig.sturgis
 
 Catch me if you can! (Odds are you can, I don’t run nearly as fast as I used to)
 
