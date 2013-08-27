@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git Your A** to Markdown"
+title: "Git Your Ass to Markdown"
 date: 2013-08-21 23:43
 comments: true
 categories: Technology
