@@ -29,7 +29,7 @@ The [suck threshold][1] is a very important concept when producing any product, 
 
 The tools used to make a tangible plan don't really matter. I'm partial to using [Trello][3] thanks to its flexibility, but plain old paper, a whiteboard, a spreadsheet, or even Microsoft Project[^1]can be made to work. The key is to find the right balance between between getting enough of the plan in a tangible form to give yourself a road map without spending so much time planning and defining that the momentum of _producing_ is lost. 
 
-[^1]: Note: I've never used this piece of software. It looks like not much fun to me, but ¯\_(ツ)_/¯
+[^1]: Note: I've never used this piece of software. It looks like not much fun to me, but ¯\\_(ツ)\_/¯
 [3]: https://trello.com
 
 Once the high level things are understood, more detailed definition is definitely helpful, but even if just one detailed task is broken out of the larger plan and completed, that can be enough to get the momentum going on to the next one.
