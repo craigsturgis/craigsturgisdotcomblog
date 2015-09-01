@@ -42,7 +42,7 @@ Common pitfalls and bad habits I run into are screwing around trying to decide w
 Even if the market for that product is only the person making it, staying reminded of what it means to finish something makes it way more likely that the endeavor will result in a finished product. The more of those you have, the easier it is to keep the stone rolling and being confident in being a finisher vs just a starter. 
 
 Postscript:
-Now, to practice what I preach. My overall plan for this particaular series of poses is to cover more abstract topics from this perspective, mixed in with specific examples from real personal projects which I will be posting as I go, some as open source software.
+Now, to practice what I preach. My overall plan for this particaular series of posts is to cover more abstract topics from this perspective, mixed in with specific examples from real personal projects which I will be posting as I go, some as open source software.
 
 *(This post includes an [affiliate link.][5])*
 
