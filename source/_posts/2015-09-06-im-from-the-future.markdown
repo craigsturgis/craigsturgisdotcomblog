@@ -6,8 +6,6 @@ comments: true
 categories: 
 ---
 
-#I'm from the future
-
 I've had the occasion to be doing a lot of reflection on the past year and a half recently, on helping start a business, on running a development team, on being the primary person in charge of managing a product - all things I had never really done completely on my own before[^1]. I've tried to focus on mainly on crystallizing what I've learned from those experiences, but the question "what do you regret" has also been rattling around in my head for quite a while, and has been asked of me directly more recently.
 
 [^1]: My 1999-era computer building business does not count
