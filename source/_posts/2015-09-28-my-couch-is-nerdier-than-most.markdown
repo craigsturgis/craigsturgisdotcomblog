@@ -60,4 +60,4 @@ I'm also interested in trying more things I would only consider doing on a tradi
 [9]: http://www.relay.fm/cortex
 [10]: https://www.macstories.net/
 
-*(This post includes [affiliate links.](/affiliate-links/))*n [affiliate link.](/affiliate-links/))*
+*(This post includes [affiliate links.](/affiliate-links/))*
