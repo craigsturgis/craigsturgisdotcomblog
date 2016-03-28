@@ -43,7 +43,7 @@ Some examples that are helpful to share are links to / summaries of meeting agen
 
 If I'm curious about a topic that is not core to my normal frame of reference, I should be able to dip into (and out of) channels to get the conversation and follow links to the appropriate supporting material. I should not need to stay in every channel and read every message or do a search through the chat history to cobble together a good sense of where something is.
 
-Other reference systems such as Trello, JIRA, Basecamp, and the like are way better for keeping track of individual bits of work and their current status and context - but when updates are syndicated to Slack, it can help people get a sense of that moment in time and give more depth to the meta conversation that may not necessarily apply only to those specific bits of work. It can also help outsiders figure out what reference system is actually relevant for a topic. But participants also need to guided to share appropriate information in the underlying tool rather than just in Slack too.
+Other reference systems such as Trello, JIRA, Basecamp, and the like are way better for keeping track of individual bits of work and their current status and context - but when updates are syndicated to Slack, it can help people get a sense of that moment in time and give more depth to the meta conversation that may not necessarily apply directly to those specific bits of work. It can also help outsiders figure out what part of a reference system is actually relevant for a topic. But participants also need to be guided to share appropriate information in the underlying tool rather than just in Slack too.
 
 ## Tuned Integrations
 
@@ -53,9 +53,10 @@ In a related sense, easy integration with outside sources and services is a huge
 
 Depending on the number of people in your group, you probably want to have appropriate sub-groupings for people to sort themselves into. Think about the example from your biology textbook of species classification (or if you prefer, your favorite object oriented language inheritance example).
 
-If I'm a duck and I'm in the slack for the "all animals" organization, I probably belong to some group of appropriate channels for conversations at the level of #vertebrates, #birds, #ducks, and potentially other ways to slice things not in a hierarchy like #pond-swimmers, #gimme-bread, #lovable-loser-youth-hockey-team, etc. This way it becomes easier to tell where the right people to talk to at the right level of specificity are. I'll leave it to you to figure out how to apply to your organization.
+If I'm a duck and I'm in the Slack for the "all animals" organization, I probably belong to some group of appropriate channels for conversations at the level of #vertebrates, #birds, #ducks, and potentially other ways to slice things that don't fall into a strict hierarchy like #pond-swimmers, #gimme-bread, #lovable-loser-youth-hockey-team, etc. This way it becomes easier to tell where the right people to talk to at the right level of specificity are.
 
 ## Notification and Channel Etiquette
+
 Much like email, the first big step to a more sustainable personal Slack experience is tuning the amount of notifications[^1] you personally get so you're not constantly bombarded and distracted. However, many times you still need to figure out when something actually needs attention sooner rather than later. That requires help from everyone involved.
 
 [^1]: (pop pop pop sound)
@@ -66,14 +67,17 @@ When people are encouraged only to use the appropriate version of @here / other 
 
 One thing Slack is decidedly **not** good at is when people are trying to discuss more than one topic simultaneously in a channel, which can create a confusing soup of multiple topics. There are multiple ways to mitigate this problem, but even having everybody be aware that this makes things difficult to follow is the first step.
 
-Creating a post that people can comment on so discussion is collected on a single item, or my favorite- creating a new, short-lived breakout channel that can be archived when the topic is done and linking to it can be a huge help in keeping conversations focused while still keeping useful information in a public, searchable place.
+Creating a post that people can comment on so discussion is collected on a single item, or my favorite- creating a new, short-lived breakout channel that can be archived when the topic is done and linking to it can be a huge help in keeping conversations focused while still keeping useful information in a public, searchable place. It acts a bit like a code branch for the conversation.
 
 ## Community Guidance
 
-The thing about communicating this way is that it is a relatively new experience for a lot of people and people only really get good at it by being exposed to it and seeing how it can be really useful in addition to meetings and emails or using Slack like any other IM style tool. Slack does a good job of nudging people, but it still requires a helpful community of people to help patiently guide people into the right habits and give directions to the right places, and a deliberate onboarding process just like you would to somebody new to a physical office culture.
+The thing about communicating this way is that it is a relatively new experience for a lot of people and people only really get good at it by being exposed to it and seeing how it can be really useful, otherwise they may stick to meetings and emails or using Slack like any other IM style tool. Slack does a good job of nudging people, but it still requires a helpful civic culture to help patiently guide people into the right habits and give directions to the right places, maybe even with a deliberate onboarding process to help, just like introducing someone to a new physical office culture.
 
 ## Oh, and robots
-Some of the most fun can be had by leveraging slackbot, webhooks, and even hubot to add random fun touches, do all the janitorial work like archiving inactive channels, and to pipe in custom information specific to your codebase and operations. It can be a good steam valve for developers too.
+Some of the most fun can be had by leveraging slackbot, custom webhooks, and even [hubot][7] to add random fun touches, do all the janitorial work like archiving inactive channels, and to pipe in custom information specific to your codebase and operations. It can also be a good steam valve for developers and other people who write a bit of code to create something to share which might have culture value if not direct work value.
+
+[7]: https://hubot.github.com/
 
 ## Phew
-Sounds like a lot of work huh? So is maintaining any good society and culture, whatever methods are used to communicate. Culture eats process that doesn't match it, and entropy will always win in the end - but if you and your fellow collaborators are deliberate and thoughtful and maintain a self examining environment, then it is possible if not probable that you can collaborate and communicate better with group chat as a communication centerpiece vs. without it.
+
+Sounds like a lot of work huh? So is maintaining any good society and culture, whatever methods are used to communicate. Culture eats process that doesn't match it, and entropy will always win in the end - but if you and your fellow collaborators are deliberate and thoughtful and maintain a self examining environment, then it is possible, even probable that you can collaborate and communicate better with group chat as a communication centerpiece vs. without it.
