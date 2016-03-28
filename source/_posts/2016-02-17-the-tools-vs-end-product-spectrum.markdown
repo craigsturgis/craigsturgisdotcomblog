@@ -3,7 +3,7 @@ layout: post
 title: "The tools vs. end product spectrum"
 date: 2016-02-17 22:29:46 -0500
 comments: true
-categories: 
+categories: Technology
 ---
 
 
@@ -23,9 +23,9 @@ How many side projects would have [gotten off the ground][1] if I didn't try to 
 
 [1]: http://craigsturgis.com/2015/08/30/developing-product-management-0-starter-to-finisher/
 [2]: http://redsquirrel.com/dave/work/a2j/patterns/BreakableToys.html
-[^2]: A brilliant "duh" concept introduced to me in a link from this post by Matt Swanson - http://mdswanson.com/blog/2016/01/25/sell-or-kill.html
+[^2]: A brilliant "duh" concept introduced to me in a link from this [post](http://mdswanson.com/blog/2016/01/25/sell-or-kill.html) by Matt Swanson
 
-When I recently wrote about finally [learning Ruby on Rails][3], I wrote from a perspective where the learning material didn't match the web development world I lived in. But, what if it does match a much wider world that still serves the huge need for statically generated, short session web sites vs. high engagement, long session, single page web applications? Maybe good old Rails is still the fastest and best solution to that problem, and that's the point?
+When I recently wrote about finally [learning Ruby on Rails][3], I wrote from a perspective where the learning material didn't match the web development world I lived in. But, what if it does match a much wider world that still serves the huge need for server side generated, shorter session web sites vs. high engagement, long session, single page web applications? Maybe good old Rails is still the fastest and best solution to that problem and a great solution to many others, and that's the point?
 
 [3]: http://craigsturgis.com/2015/09/14/riding-the-rails/
 
@@ -39,4 +39,6 @@ While I didn't take that path as my main focus, I have gone so far as to fully s
 
 The question I'm asking myself and other makers of software these days is: what are your favorite tools now? What is the next tool you are looking to learn how to use? Now, what are the things you can *make* with those tools that you couldn't before? I want to hear everyone's answers to those questions - and the more I tease that question out, the more I think there might be an underserved community on the other side.
 
-If this resonates with you, email me. I think there are more of us than you might think, and we might be able to help each other and our friends colleagues build better things.
+If this resonates with you, [email me][6]. I think there are more of us than you might think, and we might be able to help each other and our friends and colleagues build better things.
+
+[6]: mailto:cs@craigsturgis.com
