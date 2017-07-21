@@ -10,11 +10,15 @@ categories:
 
 In almost all fields, most people are searching for "the answer." The silver bullet, the cracked code. Product development is no different.
 
+![Don't smash 'em][12]
+
+[12]: /images/stone-tablet-wide.jpg
+
 [“Scientific management"][1] arrived on the scene before 1900. Taylor’s methods lit a match under the modern pursuit of the "right approach" to making things. A pursuit that has exploded over the last 15 years.
 
 [1]: https://en.wikipedia.org/wiki/Scientific_management
 
-Those of us working in software enabled products are drowning in versions of "the answer". Modern, process driven iterations of scientific management are everywhere. We're all agile now, whether we've considered the [manifesto][2] or not. MVP is on everyone's lips, even if it almost never lives up to the spirit of the [original definition][3].
+Those of us working in software enabled products are drowning in versions of "the answer". Process driven iterations of scientific management are everywhere. We're all agile now, whether we've considered the [manifesto][2] or not. MVP is on everyone's lips, even if it almost never lives up to the spirit of the [original definition][3].
 
 [2]: http://agilemanifesto.org/principles.html
 [3]: http://amzn.to/2tpOMfR
@@ -45,7 +49,7 @@ Most people bold enough to try their hand at product development have to assume 
 
 It's hard to get any product development effort off the ground or its direction changed. Funding, approval, alignment, team buy in, or any number of other things can stand in the way. It's tempting to think that once we take care of those hard things the output should be easy. It rarely is.
 
-Big ideas are easy, execution is hard. Most people think the opposite.
+**Big ideas are easy, execution is hard**. Most people think the opposite.
 
 Start with the assumption that you are almost certainly going to fail, and you might need a lot of attempts to get lucky. No approach or tool can eliminate that possibility. It can help guide you much earlier to a way of working that is very easy to talk about but very hard to do.
 
@@ -54,3 +58,13 @@ Those of us doing this work are all human, and human beings rationalize. This ma
 Put systems in place to make it hard to rationalize what you assumed before the results came in. That way you can be less wrong sooner, and you've got a lot more at-bats.
 
 There is no answer. Learn, apply, and go fail until you get lucky. If you start lucky, celebrate and get back to work. For most, luck is fleeting.
+
+----
+
+Have a story about when you thought you had the answer? Or someone you worked with? Tell me about it. cs@craigsturgis.com
+
+*(This post includes [affiliate links.](/affiliate-links/))*
+
+If you like this post, you may be interested in joining my [Product Balance For Everyone][11] mailing list
+
+[11]: http://eepurl.com/b1icuP
